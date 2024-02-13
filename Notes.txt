@@ -1,0 +1,17 @@
+# Open AI API
+
+# For these scripts to work, you need an Open AI API key. 
+# You can get one here:
+# https://platform.openai.com/signup
+
+# You need to put this key into an environment variable called OPENAI_API_KEY
+
+# I am also providing you with a key that you can use for this project, but
+# getting your own key is a good idea if you want to do more experiments on your own
+
+# You also need to install the openai python package. 
+
+# The whole process is described here:
+# https://platform.openai.com/docs/quickstart?context=python
+
+
